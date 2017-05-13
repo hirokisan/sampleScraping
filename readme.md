@@ -1,17 +1,17 @@
-# sample scraping
+# SAMPLE SCRAPING
 
-## setup
+## SETUP
 * npm install
 
-## run
+## RUN
 ```
 node index.js
 ```
 
-## reference
+## REFERENCE
 * [request](https://www.npmjs.com/package/request)
 * [cheerio](https://www.npmjs.com/package/cheerio)
 * [Node.js で Web スクレイピング | zu-min.com](https://www.zu-min.com/archives/351)
 
-## problem
+## PROBLEM
 * can not scrape from web page which of content change dynamically
