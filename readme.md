@@ -1,5 +1,13 @@
 # sample scraping
 
+## setup
+* npm install
+
+## run
+```
+node index.js
+```
+
 ## reference
 * [request](https://www.npmjs.com/package/request)
 * [cheerio](https://www.npmjs.com/package/cheerio)
